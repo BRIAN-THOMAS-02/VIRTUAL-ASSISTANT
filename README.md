@@ -12,7 +12,7 @@
 
 Once the program is run, the microphone gets activated to listen to the voice commands.
 The assistant gets activated only when the name assigned to her is called, otherwise it doesn’t respond.
-Once the assistant is activated a number of tasks can be performed by her all with you’re beautiful voice like,
+Once the assistant is activated a number of tasks can be performed by her all with you’re voice like,
 
 ### As every Assistant out there it does the following :
 📅 Date, time and day can be asked.\
