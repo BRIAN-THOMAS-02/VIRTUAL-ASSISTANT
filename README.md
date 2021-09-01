@@ -1,6 +1,6 @@
 # 🤖 VIRTUAL-ASSISTANT 🤖
 
-### 🔶🔶 One of my best completely self-built from scratch projects
+### 🔶 One of my best completely self-built from scratch projects 🔶
 
 >### This Project is the Virtual Assistant that's been created by using Libraries and end-to-end Customization
 
@@ -59,7 +59,7 @@ Once the assistant is activated a number of tasks can be performed by her all wi
 
 <br>
 
-## 🧊 WORKING 
+## 🧊 WORKING 🧊
 
 ### When the program executes the mic is enabled and is waiting for the user’s input for the name of the assistant to activate it. There are three possible outcomes:
 ***✒️  If no input, assistant asks politely for input***
