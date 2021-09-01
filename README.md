@@ -14,7 +14,7 @@ Once the program is run, the microphone gets activated to listen to the voice co
 The assistant gets activated only when the name assigned to her is called, otherwise it doesn’t respond.
 Once the assistant is activated a number of tasks can be performed by her all with you’re beautiful voice like,
 
-### As every Assistant out there it does the following :\
+### As every Assistant out there it does the following :
 📅 Date, time and day can be asked.\
 🔎 Search the web.\
 🔓 Open various apps, sites.\
@@ -28,33 +28,34 @@ Once the assistant is activated a number of tasks can be performed by her all wi
 
 ## ⚡ ALGORITHM ⚡
 
-1.  START
-2.  Use get_audio() function to take audio input from the microphone.
-3.  If "Olivia" in the input: Reply/Greet the user.
-4.  Else: Ask the user to call the assistant's name in the input.
-5.  Expect voice input/commands from the user.
-6.  User asks to set a reminder.
-7.  Call the reminder_seconds() function.
-8.  Takes input as description/reason of reminder and time.
-9.  Reminds you of your given description at a given time.
-10. And also notifies you using the Windows System Notification with the reason.
-11. User asks to open a word document.
-12. Calls write_content() function which Opens a word document.
-13. Takes live audio input for specified time.
-14. Audio input is converted to a string.
-15. This string is printed on the Word Document.
-16. This function includes features like using Left, right, centre align, bold, underline and italics. All this is excluded from the text to be typed on the word document.
-17. User asks to do a google search (search Elon Musk).
-18. Here the keyword is search and the rest is searched on Bing.
-19. Opens a browser and searches results and gives output.
-20. User asks for a date/time.
-21. Displays day, date, time accordingly
-22. Other possible inputs
-  a.  Runs its respective program/ calls function
-  b.  Displays error on not recognizing input
-  c.  Asks for the input again
-23. Input to terminate the program.
-24. STOP
+***1️⃣    &nbsp; &nbsp; &nbsp; START***\
+***2️⃣    &nbsp; &nbsp; &nbsp; Use get_audio() function to take audio input from the microphone.***\
+***3️⃣    &nbsp; &nbsp; &nbsp; If "Olivia" in the input: Reply/Greet the user.***\
+***️4️⃣    &nbsp; &nbsp; &nbsp; Else: Ask the user to call the assistant's name in the input.***\
+***5️⃣    &nbsp; &nbsp; &nbsp; Expect voice input/commands from the user.***\
+***6️⃣    &nbsp; &nbsp; &nbsp; User asks to set a reminder.***\
+***7️⃣    &nbsp; &nbsp; &nbsp; Call the reminder_seconds() function.***\
+***8️⃣    &nbsp; &nbsp; &nbsp; Takes input as description/reason of reminder and time.***\
+***9️⃣    &nbsp; &nbsp; &nbsp; Reminds you of your given description at a given time.***\
+***1️⃣0️⃣  &nbsp;   And also notifies you using the Windows System Notification with the reason.***\
+️***1️⃣1️⃣  &nbsp;   User asks to open a word document.***\
+***1️⃣2️⃣  &nbsp;   Calls write_content() function which Opens a word document.***\
+***1️⃣3️⃣  &nbsp;   Takes live audio input for specified time.***\
+***1️⃣4️⃣  &nbsp;   Audio input is converted to a string.***\
+***1️⃣5️⃣  &nbsp;   This string is printed on the Word Document.***\
+***1️⃣6️⃣  &nbsp;   This function includes features like using Left, right, centre align, bold, underline and italics.*** <br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ***All this is excluded from the text to be typed on the word  document.***\
+***1️⃣7️⃣  &nbsp;   User asks to do a google search (search Elon Musk).***\
+***1️⃣8️⃣  &nbsp;   Here the keyword is search and the rest is searched on Bing.***\
+***1️⃣9️⃣  &nbsp;   Opens a browser and searches results and gives output.***\
+***2️⃣0️⃣  &nbsp;   User asks for a date/time.***\
+***2️⃣1️⃣  Displays day, date, time accordingly.***\
+***2️⃣2️⃣  Other possible inputs.***\
+&nbsp; &nbsp; &nbsp;   ***🧨    Runs its respective program/ calls function.***\
+&nbsp; &nbsp; &nbsp;   ***🧨    Displays error on not recognizing input.***\
+&nbsp; &nbsp; &nbsp;   ***🧨    Asks for the input again.***\
+***2️⃣3️⃣ Input to terminate the program.***\
+***2️⃣4️⃣ STOP***
 
 <br>
 
@@ -101,7 +102,7 @@ Once the assistant is activated a number of tasks can be performed by her all wi
 
 
 ### ***📌 When the user asks to change the voice :***
-   Assistant changes its voice to male and asks the user if would like to be kept and do so accordingly. If the user doesn’t like that voice it changes to another voice and again sks the user for acceptance, and do so accordingly.
+   Assistant changes its voice to male and asks the user if would like to be kept and do so accordingly. If the user doesn’t like that voice it changes to another voice and again asks the user for acceptance, and do so accordingly.
 
 
 ### ***📌 When the user asks to open any application :***
